@@ -1,2 +1,2 @@
 # bash
-Bush helpers
+Bash helpers
